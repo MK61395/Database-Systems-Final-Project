@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckoutPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerSatisfaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoyaltyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageFinances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModifyOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PointOfSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimeClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
